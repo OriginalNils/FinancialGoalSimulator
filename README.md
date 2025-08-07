@@ -48,14 +48,7 @@ git clone https://github.com/OriginalNils/FinancialGoalSimulator.git
 cd FinancialGoalSimulator
 ```
 
-####  2. Create and activate a virtual environment (recommended):
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
-
-#### 3. Install dependencies:
+#### 2. Install dependencies:
 Then, run the installation command:
 ```bash
 pip install -r requirements.txt
